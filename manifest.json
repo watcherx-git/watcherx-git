@@ -1,6 +1,6 @@
 {
-    "name": "watcherx",
-    "short_name": "watcherx",
+    "name": "Watcherx",
+    "short_name": "Watcherx",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
